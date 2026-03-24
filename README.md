@@ -16,7 +16,7 @@ L'applicazione permette di ottenere informazioni meteorologiche attuali (tempera
 
 1. Clona o scarica il progetto:
 ```bash
-git clone <repository-url>
+git clone https://github.com/DomenicoBalenzano/weather-app
 cd weather-app
 ```
 
@@ -106,7 +106,7 @@ L'applicazione gestisce i seguenti casi di errore:
 
 ## Dipendenze principali
 
-- Jackson (2.17.2): Per la gestione del JSON
+- Jackson (2.18.6): Per la gestione del JSON
 - JUnit 5 (5.10.0): Per i test unitari
 - Mockito (5.7.0): Per il mocking nei test
 
